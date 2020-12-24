@@ -300,3 +300,6 @@ while True:
 #关闭设备
 wyhkm.Close()
 input()
+
+
+1111111111111
