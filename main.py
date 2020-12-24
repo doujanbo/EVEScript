@@ -120,7 +120,7 @@ def sayhello(strhello):
     '''
     engine.say(strhello)
     engine.runAndWait()
-    '''
+'''
 
 # 注意，没有本句话是没有声音的
 
@@ -200,7 +200,7 @@ def duidie():
     except:
         return
 
-def transport(): #判断是否挖满，如果挖满就运回空间站
+def transport(): #移动矿石
     xyxy = (0, 0)
     duidie()
     try:
@@ -240,7 +240,7 @@ def LittleWhale(name):   #切换界面
     time.sleep(random.randint(66, 100) * 0.001)
     wyhkm.LeftClick()
     time.sleep(random.randint(66, 100) * 0.001)
-    MoveToAdd(513,880)
+    MoveToAdd(416,880)
     time.sleep(random.randint(66, 100) * 0.001+1)
     bmpsave('RefreshScreenshot')
     try:
@@ -252,6 +252,101 @@ def LittleWhale(name):   #切换界面
     wyhkm.LeftClick()
     time.sleep(random.randint(66, 100) * 0.001)
 
+def chekbmp(bmpname):
+    bmpsave('RefreshScreenshot')
+    while True:
+        try:
+            matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/" + bmpname + ".bmp", 0.9)
+            sayhello("发现了")
+            return
+        except:
+            sayhello("没发现")
+            bmpsave('RefreshScreenshot')
+            pass
+
+def jinzhan():
+    xyxy = (0, 0)
+    while True:
+        try:
+            MoveToAdd(620, 450)
+            wyhkm.RightClick()
+            time.sleep(random.randint(66, 100) * 0.001)
+            time.sleep(1)
+            bmpsave('RefreshScreenshot')
+            # 移到建筑
+            sayhello("移到建筑")
+            xyxy = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/jianzhu.bmp", 0.9)['result']
+            MoveToAdd(xyxy[0], xyxy[1])
+            time.sleep(0.5)
+            bmpsave('RefreshScreenshot')
+            # 移到铁壁
+            sayhello("移到铁壁")
+            xyxy = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/tiebi.bmp", 0.9)['result']
+            MoveToAdd(xyxy[0], xyxy[1])
+            time.sleep(0.6)
+            # 停靠
+            sayhello("停靠")
+            bmpsave('RefreshScreenshot')
+            xyxy = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/tingkao.bmp", 0.5)['result']
+            MoveToAdd(xyxy[0], xyxy[1])
+            wyhkm.LeftClick()
+            time.sleep(random.randint(66, 100) * 0.001)
+            sayhello("还没到空间站")
+            time.sleep(5)
+        except:
+            sayhello("已经进站了")
+            return
+
+
+def full():
+    xyxy = (0,0)
+    bmpsave('RefreshScreenshot')
+    sayhello("检测是否满了")
+    try:
+
+        matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/full.bmp", 0.9)['result']
+        sayhello("回站")
+        wyhkm.KeyPress("Enter")
+        MoveToAdd(620, 450)
+        wyhkm.RightClick()
+        time.sleep(random.randint(66, 100) * 0.001)
+        time.sleep(1)
+        bmpsave('RefreshScreenshot')
+        #移到建筑
+        sayhello("移到建筑")
+        xyxy = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/jianzhu.bmp", 0.9)['result']
+        MoveToAdd(xyxy[0], xyxy[1])
+        time.sleep(0.5)
+        bmpsave('RefreshScreenshot')
+        #移到铁壁
+        sayhello("移到铁壁")
+        xyxy = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/tiebi.bmp", 0.9)['result']
+        MoveToAdd(xyxy[0], xyxy[1])
+        time.sleep(0.6)
+        #停靠
+        sayhello("停靠,停止加成")
+        wyhkm.KeyPress('F1')
+        time.sleep(random.randint(66, 100) * 0.001)
+        wyhkm.KeyPress('F2')
+        time.sleep(random.randint(66, 100) * 0.001)
+        wyhkm.KeyPress('F3')
+        bmpsave('RefreshScreenshot')
+        xyxy = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/tingkao.bmp", 0.5)['result']
+        MoveToAdd(xyxy[0], xyxy[1])
+        wyhkm.LeftClick()
+        time.sleep(random.randint(66, 100) * 0.001)
+        #进站
+
+    except:
+        sayhello("没满")
+        pass
+
+
+
+#time.sleep(3)
+#transport()
+#full()
+#jinzhan()
 
 
 while True:
