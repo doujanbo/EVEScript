@@ -1,0 +1,1764 @@
+[2020-11-22 17:14:02.711] [I] ***************************************************************
+[2020-11-22 17:14:02.711] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 17:14:02.711] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 17:14:02.711] [I] Cores: 8
+[2020-11-22 17:14:02.711] [I] Elevated: false
+[2020-11-22 17:14:02.711] [I] Main thread id: 0x1cdc
+[2020-11-22 17:14:02.711] [I] Log level: 2
+[2020-11-22 17:14:02.711] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 17:14:02.711] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 17:14:02.711] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 17:14:02.711] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 17:14:02.711] [I] Screen scale: 1.0
+[2020-11-22 17:14:02.711] [I] Retina factor: 1.0
+[2020-11-22 17:14:02.712] [I] Screens: 1
+[2020-11-22 17:14:02.712] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 17:14:02.750] [I] Desktops: 1
+[2020-11-22 17:14:02.750] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 17:14:02.758] [I] Settings imported
+[2020-11-22 17:14:02.766] [I] Breakpad initialized
+[2020-11-22 17:14:02.769] [I] Process priority: 1
+[2020-11-22 17:14:02.770] [I] Initializing Snipaste...
+[2020-11-22 17:14:03.287] [I] Prefetch...
+[2020-11-22 17:14:03.304] [I] Preloaded 20 files: 10 ms
+[2020-11-22 17:14:03.316] [I] Load default ssl configuration: 30 ms
+[2020-11-22 17:14:03.350] [I] About to apply settings...
+[2020-11-22 17:14:03.425] [I] Settings applied
+[2020-11-22 17:14:03.434] [I] Log level set to: 2
+[2020-11-22 17:14:03.479] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 17:14:03.479] [W] Failed to open history file "C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history/.sp0" for reading
+[2020-11-22 17:14:03.479] [I] Add group
+[2020-11-22 17:14:03.497] [I] Request to switch to group 0
+[2020-11-22 17:14:03.548] [I] About to restore pasters...
+[2020-11-22 17:14:03.548] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 17:14:03.548] [I] Record version: 184
+[2020-11-22 17:14:03.548] [I] To restore: 0
+[2020-11-22 17:14:03.548] [I] Pasters touched
+[2020-11-22 17:14:03.548] [I] All pasters activated: true
+[2020-11-22 17:14:03.568] [I] Unref images: 0 (0 removed)
+[2020-11-22 17:14:03.570] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 17:14:03.572] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 17:14:03.572] [I] Pasters restored
+[2020-11-22 17:14:03.573] [I] Launch time: 877 ms
+[2020-11-22 17:14:38.885] [I] Second instance: 5
+[2020-11-22 17:14:38.885] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, 5.bmp)
+[2020-11-22 17:14:38.886] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:14:38.886] [I] Screenshot (0, 0, 1440 x 900) destination: file: 5.bmp 
+[2020-11-22 17:14:38.920] [I] Screenshot successfully saved: file: 5.bmp 
+[2020-11-22 17:14:38.921] [I] Save with file names: 5.bmp
+[2020-11-22 17:14:38.934] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/5.bmp
+[2020-11-22 17:15:05.092] [I] Silent feed checking finished
+[2020-11-22 17:15:05.092] [I] No available update
+[2020-11-22 17:15:08.984] [I] Second instance: 5
+[2020-11-22 17:15:08.985] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, .././5.bmp)
+[2020-11-22 17:15:08.985] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:15:08.985] [I] Screenshot (0, 0, 1440 x 900) destination: file: .././5.bmp 
+[2020-11-22 17:15:09.018] [I] Screenshot successfully saved: file: .././5.bmp 
+[2020-11-22 17:15:09.018] [I] Save with file names: .././5.bmp
+[2020-11-22 17:15:09.031] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:15:25.890] [I] Second instance: 5
+[2020-11-22 17:15:25.890] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:15:25.891] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:15:25.891] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:15:25.918] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:15:25.918] [I] Save with file names: ../5.bmp
+[2020-11-22 17:15:25.930] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:15:35.544] [I] Second instance: 5
+[2020-11-22 17:15:35.544] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:15:35.545] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:15:35.545] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:15:35.570] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:15:35.570] [I] Save with file names: ../5.bmp
+[2020-11-22 17:15:35.583] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:20:53.119] [I] Second instance: 5
+[2020-11-22 17:20:53.119] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:20:53.119] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:20:53.119] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:20:53.150] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:20:53.150] [I] Save with file names: ../5.bmp
+[2020-11-22 17:20:53.165] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:21:12.386] [I] Second instance: 5
+[2020-11-22 17:21:12.386] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:21:12.387] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:21:12.387] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:21:12.417] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:21:12.417] [I] Save with file names: ../5.bmp
+[2020-11-22 17:21:12.431] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:22:33.154] [I] Second instance: 5
+[2020-11-22 17:22:33.154] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:22:33.154] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:22:33.154] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:22:33.181] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:22:33.181] [I] Save with file names: ../5.bmp
+[2020-11-22 17:22:33.195] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:24:03.509] [I] Preloaded 20 files: 31 ms [every 10.0 m]
+[2020-11-22 17:26:00.849] [I] Second instance: 5
+[2020-11-22 17:26:00.849] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:26:00.850] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:26:00.850] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:26:00.878] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:26:00.879] [I] Save with file names: ../5.bmp
+[2020-11-22 17:26:00.891] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:26:25.195] [I] Second instance: 5
+[2020-11-22 17:26:25.195] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 17:26:25.196] [I] Snip request: 2 (dest: 64)
+[2020-11-22 17:26:25.196] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 17:26:25.228] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 17:26:25.228] [I] Save with file names: ../5.bmp
+[2020-11-22 17:26:25.240] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 17:36:33.556] [I] Preloaded 20 files: 31 ms [every 12.5 m]
+[2020-11-22 17:52:11.687] [I] Preloaded 20 files: 127 ms [every 15.6 m]
+[2020-11-22 18:07:49.818] [I] Preloaded 20 files: 130 ms [every 15.6 m]
+[2020-11-22 18:22:32.530] [I] Second instance: 5
+[2020-11-22 18:22:32.530] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:22:32.530] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:22:32.530] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:22:32.559] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:22:32.559] [I] Save with file names: ../5.bmp
+[2020-11-22 18:22:32.573] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:23:27.857] [I] Preloaded 20 files: 34 ms [every 15.6 m]
+[2020-11-22 18:24:16.778] [I] Second instance: 5
+[2020-11-22 18:24:16.778] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:24:16.778] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:24:16.779] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:24:16.806] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:24:16.806] [I] Save with file names: ../5.bmp
+[2020-11-22 18:24:16.819] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:27:19.172] [I] Second instance: 5
+[2020-11-22 18:27:19.172] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:27:19.172] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:27:19.172] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:27:19.216] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:27:19.216] [I] Save with file names: ../5.bmp
+[2020-11-22 18:27:19.232] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:29:47.187] [I] Second instance: 5
+[2020-11-22 18:29:47.187] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:29:47.188] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:29:47.188] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:29:47.222] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:29:47.222] [I] Save with file names: ../5.bmp
+[2020-11-22 18:29:47.237] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:31:28.771] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:31:30.599] [I] Quit from tray menu
+[2020-11-22 18:31:30.618] [I] Snipaste: normal exit
+[2020-11-22 18:31:30.619] [I] Snipper: destructed
+[2020-11-22 18:31:30.646] [I] Exit: 0
+
+
+[2020-11-22 18:37:10.912] [I] ***************************************************************
+[2020-11-22 18:37:10.912] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:37:10.912] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:37:10.912] [I] Cores: 8
+[2020-11-22 18:37:10.912] [I] Elevated: false
+[2020-11-22 18:37:10.912] [I] Main thread id: 0xa14
+[2020-11-22 18:37:10.912] [I] Log level: 2
+[2020-11-22 18:37:10.912] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:37:10.912] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:37:10.912] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:37:10.912] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:37:10.912] [I] Screen scale: 1.0
+[2020-11-22 18:37:10.912] [I] Retina factor: 1.0
+[2020-11-22 18:37:10.912] [I] Screens: 1
+[2020-11-22 18:37:10.912] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:37:10.933] [I] Desktops: 1
+[2020-11-22 18:37:10.933] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:37:10.952] [I] Settings imported
+[2020-11-22 18:37:10.955] [I] Breakpad initialized
+[2020-11-22 18:37:10.958] [I] Process priority: 1
+[2020-11-22 18:37:10.958] [I] Initializing Snipaste...
+[2020-11-22 18:37:11.333] [I] Prefetch...
+[2020-11-22 18:37:11.349] [I] Preloaded 20 files: 15 ms
+[2020-11-22 18:37:11.357] [I] Load default ssl configuration: 31 ms
+[2020-11-22 18:37:11.370] [I] About to apply settings...
+[2020-11-22 18:37:11.428] [I] Settings applied
+[2020-11-22 18:37:11.436] [I] Log level set to: 2
+[2020-11-22 18:37:11.476] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:37:11.478] [I] Header version: 184
+[2020-11-22 18:37:11.478] [I] About to restore pasters...
+[2020-11-22 18:37:11.478] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:37:11.478] [I] Record version: 184
+[2020-11-22 18:37:11.478] [I] To restore: 0
+[2020-11-22 18:37:11.478] [I] Pasters touched
+[2020-11-22 18:37:11.478] [I] All pasters activated: true
+[2020-11-22 18:37:11.524] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:37:11.525] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:37:11.527] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:37:11.527] [I] Pasters restored
+[2020-11-22 18:37:11.527] [I] Launch time: 609 ms
+[2020-11-22 18:37:31.481] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:37:35.156] [I] Quit from tray menu
+[2020-11-22 18:37:35.170] [I] Snipaste: normal exit
+[2020-11-22 18:37:35.170] [I] Snipper: destructed
+[2020-11-22 18:37:35.185] [I] Exit: 0
+
+
+[2020-11-22 18:38:55.047] [I] ***************************************************************
+[2020-11-22 18:38:55.047] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:38:55.047] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:38:55.047] [I] Cores: 8
+[2020-11-22 18:38:55.047] [I] Elevated: false
+[2020-11-22 18:38:55.047] [I] Main thread id: 0x33d0
+[2020-11-22 18:38:55.047] [I] Log level: 2
+[2020-11-22 18:38:55.047] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:38:55.047] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:38:55.047] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:38:55.047] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:38:55.047] [I] Screen scale: 1.0
+[2020-11-22 18:38:55.047] [I] Retina factor: 1.0
+[2020-11-22 18:38:55.047] [I] Screens: 1
+[2020-11-22 18:38:55.047] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:38:55.089] [I] Desktops: 1
+[2020-11-22 18:38:55.089] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:38:55.111] [I] Settings imported
+[2020-11-22 18:38:55.114] [I] Breakpad initialized
+[2020-11-22 18:38:55.117] [I] Process priority: 1
+[2020-11-22 18:38:55.117] [I] Initializing Snipaste...
+[2020-11-22 18:38:55.495] [I] Prefetch...
+[2020-11-22 18:38:55.512] [I] Preloaded 20 files: 15 ms
+[2020-11-22 18:38:55.519] [I] Load default ssl configuration: 15 ms
+[2020-11-22 18:38:55.534] [I] About to apply settings...
+[2020-11-22 18:38:55.608] [I] Settings applied
+[2020-11-22 18:38:55.622] [I] Log level set to: 2
+[2020-11-22 18:38:55.666] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:38:55.667] [I] Header version: 184
+[2020-11-22 18:38:55.668] [I] About to restore pasters...
+[2020-11-22 18:38:55.668] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:38:55.668] [I] Record version: 184
+[2020-11-22 18:38:55.668] [I] To restore: 0
+[2020-11-22 18:38:55.668] [I] Pasters touched
+[2020-11-22 18:38:55.668] [I] All pasters activated: true
+[2020-11-22 18:38:55.714] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:38:55.715] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:38:55.716] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:38:55.716] [I] Pasters restored
+[2020-11-22 18:38:55.717] [I] Launch time: 672 ms
+[2020-11-22 18:38:57.704] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:38:58.355] [I] Quit from tray menu
+[2020-11-22 18:38:58.370] [I] Snipaste: normal exit
+[2020-11-22 18:38:58.370] [I] Snipper: destructed
+[2020-11-22 18:38:58.387] [I] Exit: 0
+
+
+[2020-11-22 18:42:35.967] [I] ***************************************************************
+[2020-11-22 18:42:35.967] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:42:35.967] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:42:35.967] [I] Cores: 8
+[2020-11-22 18:42:35.967] [I] Elevated: false
+[2020-11-22 18:42:35.967] [I] Main thread id: 0x2f00
+[2020-11-22 18:42:35.967] [I] Log level: 2
+[2020-11-22 18:42:35.967] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:42:35.967] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:42:35.967] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:42:35.967] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:42:35.967] [I] Screen scale: 1.0
+[2020-11-22 18:42:35.967] [I] Retina factor: 1.0
+[2020-11-22 18:42:35.967] [I] Screens: 1
+[2020-11-22 18:42:35.967] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:42:35.994] [I] Desktops: 1
+[2020-11-22 18:42:35.994] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:42:36.010] [I] Settings imported
+[2020-11-22 18:42:36.013] [I] Breakpad initialized
+[2020-11-22 18:42:36.016] [I] Process priority: 1
+[2020-11-22 18:42:36.016] [I] Initializing Snipaste...
+[2020-11-22 18:42:36.385] [I] Prefetch...
+[2020-11-22 18:42:36.403] [I] Preloaded 20 files: 15 ms
+[2020-11-22 18:42:36.412] [I] Load default ssl configuration: 15 ms
+[2020-11-22 18:42:36.427] [I] About to apply settings...
+[2020-11-22 18:42:36.490] [I] Settings applied
+[2020-11-22 18:42:36.499] [I] Log level set to: 2
+[2020-11-22 18:42:36.541] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:42:36.543] [I] Header version: 184
+[2020-11-22 18:42:36.543] [I] About to restore pasters...
+[2020-11-22 18:42:36.543] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:42:36.543] [I] Record version: 184
+[2020-11-22 18:42:36.543] [I] To restore: 0
+[2020-11-22 18:42:36.543] [I] Pasters touched
+[2020-11-22 18:42:36.543] [I] All pasters activated: true
+[2020-11-22 18:42:36.591] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:42:36.592] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:42:36.594] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:42:36.594] [I] Pasters restored
+[2020-11-22 18:42:36.594] [I] Launch time: 641 ms
+[2020-11-22 18:42:39.519] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:42:40.138] [I] Quit from tray menu
+[2020-11-22 18:42:40.152] [I] Snipaste: normal exit
+[2020-11-22 18:42:40.153] [I] Snipper: destructed
+[2020-11-22 18:42:40.170] [I] Exit: 0
+
+
+[2020-11-22 18:45:12.523] [I] ***************************************************************
+[2020-11-22 18:45:12.523] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:45:12.523] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:45:12.523] [I] Cores: 8
+[2020-11-22 18:45:12.523] [I] Elevated: false
+[2020-11-22 18:45:12.523] [I] Main thread id: 0x890
+[2020-11-22 18:45:12.523] [I] Log level: 2
+[2020-11-22 18:45:12.523] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:45:12.523] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:45:12.523] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:45:12.523] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:45:12.523] [I] Screen scale: 1.0
+[2020-11-22 18:45:12.523] [I] Retina factor: 1.0
+[2020-11-22 18:45:12.523] [I] Screens: 1
+[2020-11-22 18:45:12.523] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:45:12.544] [I] Desktops: 1
+[2020-11-22 18:45:12.544] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:45:12.560] [I] Settings imported
+[2020-11-22 18:45:12.563] [I] Breakpad initialized
+[2020-11-22 18:45:12.566] [I] Process priority: 1
+[2020-11-22 18:45:12.566] [I] Initializing Snipaste...
+[2020-11-22 18:45:12.919] [I] Prefetch...
+[2020-11-22 18:45:12.935] [I] Preloaded 20 files: 16 ms
+[2020-11-22 18:45:12.944] [I] Load default ssl configuration: 32 ms
+[2020-11-22 18:45:12.957] [I] About to apply settings...
+[2020-11-22 18:45:13.015] [I] Settings applied
+[2020-11-22 18:45:13.024] [I] Log level set to: 2
+[2020-11-22 18:45:13.065] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:45:13.066] [I] Header version: 184
+[2020-11-22 18:45:13.066] [I] About to restore pasters...
+[2020-11-22 18:45:13.066] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:45:13.066] [I] Record version: 184
+[2020-11-22 18:45:13.066] [I] To restore: 0
+[2020-11-22 18:45:13.066] [I] Pasters touched
+[2020-11-22 18:45:13.066] [I] All pasters activated: true
+[2020-11-22 18:45:13.110] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:45:13.111] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:45:13.113] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:45:13.113] [I] Pasters restored
+[2020-11-22 18:45:13.113] [I] Launch time: 594 ms
+[2020-11-22 18:45:28.515] [I] Second instance: 5
+[2020-11-22 18:45:28.515] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:45:28.515] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:45:28.515] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:45:28.551] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:45:28.551] [I] Save with file names: ../5.bmp
+[2020-11-22 18:45:28.562] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:45:32.534] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:45:33.729] [I] Quit from tray menu
+[2020-11-22 18:45:33.744] [I] Snipaste: normal exit
+[2020-11-22 18:45:33.744] [I] Snipper: destructed
+[2020-11-22 18:45:33.761] [I] Exit: 0
+
+
+[2020-11-22 18:46:06.687] [I] ***************************************************************
+[2020-11-22 18:46:06.687] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:46:06.687] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:46:06.687] [I] Cores: 8
+[2020-11-22 18:46:06.688] [I] Elevated: false
+[2020-11-22 18:46:06.688] [I] Main thread id: 0x215c
+[2020-11-22 18:46:06.688] [I] Log level: 2
+[2020-11-22 18:46:06.688] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:46:06.688] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:46:06.688] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:46:06.688] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:46:06.688] [I] Screen scale: 1.0
+[2020-11-22 18:46:06.688] [I] Retina factor: 1.0
+[2020-11-22 18:46:06.688] [I] Screens: 1
+[2020-11-22 18:46:06.688] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:46:06.709] [I] Desktops: 1
+[2020-11-22 18:46:06.709] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:46:06.726] [I] Settings imported
+[2020-11-22 18:46:06.729] [I] Breakpad initialized
+[2020-11-22 18:46:06.731] [I] Process priority: 1
+[2020-11-22 18:46:06.732] [I] Initializing Snipaste...
+[2020-11-22 18:46:07.096] [I] Prefetch...
+[2020-11-22 18:46:07.112] [I] Preloaded 20 files: 16 ms
+[2020-11-22 18:46:07.119] [I] Load default ssl configuration: 32 ms
+[2020-11-22 18:46:07.133] [I] About to apply settings...
+[2020-11-22 18:46:07.193] [I] Settings applied
+[2020-11-22 18:46:07.201] [I] Log level set to: 2
+[2020-11-22 18:46:07.243] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:46:07.244] [I] Header version: 184
+[2020-11-22 18:46:07.244] [I] About to restore pasters...
+[2020-11-22 18:46:07.244] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:46:07.244] [I] Record version: 184
+[2020-11-22 18:46:07.244] [I] To restore: 0
+[2020-11-22 18:46:07.244] [I] Pasters touched
+[2020-11-22 18:46:07.244] [I] All pasters activated: true
+[2020-11-22 18:46:07.293] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:46:07.294] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:46:07.296] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:46:07.296] [I] Pasters restored
+[2020-11-22 18:46:07.296] [I] Launch time: 610 ms
+[2020-11-22 18:46:12.563] [I] Second instance: 5
+[2020-11-22 18:46:12.563] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:46:12.564] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:46:12.564] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:46:12.608] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:46:12.608] [I] Save with file names: ../5.bmp
+[2020-11-22 18:46:12.632] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:46:25.742] [I] Second instance: 5
+[2020-11-22 18:46:25.742] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:46:25.742] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:46:25.742] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:46:25.767] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:46:25.767] [I] Save with file names: ../5.bmp
+[2020-11-22 18:46:25.778] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:46:36.840] [I] Second instance: 5
+[2020-11-22 18:46:36.840] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:46:36.840] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:46:36.840] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:46:36.870] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:46:36.870] [I] Save with file names: ../5.bmp
+[2020-11-22 18:46:36.883] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:47:09.288] [I] Silent feed checking finished
+[2020-11-22 18:47:09.288] [I] No available update
+[2020-11-22 18:48:15.098] [I] Second instance: 5
+[2020-11-22 18:48:15.098] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:48:15.099] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:48:15.099] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:48:15.136] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:48:15.136] [I] Save with file names: ../5.bmp
+[2020-11-22 18:48:15.149] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:48:49.651] [I] Second instance: 5
+[2020-11-22 18:48:49.651] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:48:49.651] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:48:49.651] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:48:49.682] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:48:49.682] [I] Save with file names: ../5.bmp
+[2020-11-22 18:48:49.697] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:49:00.525] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:49:01.143] [I] Quit from tray menu
+[2020-11-22 18:49:01.158] [I] Snipaste: normal exit
+[2020-11-22 18:49:01.158] [I] Snipper: destructed
+[2020-11-22 18:49:01.176] [I] Exit: 0
+
+
+[2020-11-22 18:49:53.430] [I] ***************************************************************
+[2020-11-22 18:49:53.430] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:49:53.430] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:49:53.430] [I] Cores: 8
+[2020-11-22 18:49:53.430] [I] Elevated: true
+[2020-11-22 18:49:53.430] [I] Main thread id: 0x2200
+[2020-11-22 18:49:53.430] [I] Log level: 2
+[2020-11-22 18:49:53.430] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:49:53.430] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:49:53.430] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:49:53.430] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:49:53.430] [I] Screen scale: 1.0
+[2020-11-22 18:49:53.430] [I] Retina factor: 1.0
+[2020-11-22 18:49:53.430] [I] Screens: 1
+[2020-11-22 18:49:53.430] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:49:53.446] [I] Desktops: 1
+[2020-11-22 18:49:53.446] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:49:53.458] [I] Settings imported
+[2020-11-22 18:49:53.462] [I] Breakpad initialized
+[2020-11-22 18:49:53.464] [I] Process priority: 1
+[2020-11-22 18:49:53.464] [I] Initializing Snipaste...
+[2020-11-22 18:49:53.825] [I] Prefetch...
+[2020-11-22 18:49:53.835] [I] Preloaded 20 files: 0 ms
+[2020-11-22 18:49:53.845] [I] Load default ssl configuration: 16 ms
+[2020-11-22 18:49:53.851] [I] About to apply settings...
+[2020-11-22 18:49:53.899] [I] Settings applied
+[2020-11-22 18:49:53.907] [I] Log level set to: 2
+[2020-11-22 18:49:53.946] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:49:53.947] [I] Header version: 184
+[2020-11-22 18:49:53.947] [I] About to restore pasters...
+[2020-11-22 18:49:53.948] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:49:53.948] [I] Record version: 184
+[2020-11-22 18:49:53.948] [I] To restore: 0
+[2020-11-22 18:49:53.948] [I] Pasters touched
+[2020-11-22 18:49:53.948] [I] All pasters activated: true
+[2020-11-22 18:49:53.990] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:49:53.991] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:49:53.992] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:49:53.992] [I] Pasters restored
+[2020-11-22 18:49:53.992] [I] Launch time: 562 ms
+[2020-11-22 18:50:53.448] [I] Second instance: 5
+[2020-11-22 18:50:53.448] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:50:53.448] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:50:53.448] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:50:53.479] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:50:53.479] [I] Save with file names: ../5.bmp
+[2020-11-22 18:50:53.489] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:50:56.757] [I] Silent feed checking finished
+[2020-11-22 18:50:56.757] [I] No available update
+[2020-11-22 18:52:09.442] [I] Second instance: 5
+[2020-11-22 18:52:09.442] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:52:09.442] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:52:09.442] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:52:09.476] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:52:09.476] [I] Save with file names: ../5.bmp
+[2020-11-22 18:52:09.486] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:52:20.283] [I] Second instance: 5
+[2020-11-22 18:52:20.283] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:52:20.284] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:52:20.284] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:52:20.309] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:52:20.309] [I] Save with file names: ../5.bmp
+[2020-11-22 18:52:20.320] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:52:37.075] [I] Second instance: 5
+[2020-11-22 18:52:37.075] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:52:37.075] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:52:37.075] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:52:37.112] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:52:37.112] [I] Save with file names: ../5.bmp
+[2020-11-22 18:52:37.121] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:54:14.347] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:54:15.094] [I] Quit from tray menu
+[2020-11-22 18:54:15.106] [I] Snipaste: normal exit
+[2020-11-22 18:54:15.107] [I] Snipper: destructed
+[2020-11-22 18:54:15.124] [I] Exit: 0
+
+
+[2020-11-22 18:54:23.017] [I] ***************************************************************
+[2020-11-22 18:54:23.017] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:54:23.017] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:54:23.017] [I] Cores: 8
+[2020-11-22 18:54:23.017] [I] Elevated: true
+[2020-11-22 18:54:23.017] [I] Main thread id: 0x264c
+[2020-11-22 18:54:23.017] [I] Log level: 2
+[2020-11-22 18:54:23.017] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:54:23.017] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:54:23.017] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:54:23.017] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:54:23.017] [I] Screen scale: 1.0
+[2020-11-22 18:54:23.017] [I] Retina factor: 1.0
+[2020-11-22 18:54:23.017] [I] Screens: 1
+[2020-11-22 18:54:23.017] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:54:23.030] [I] Desktops: 1
+[2020-11-22 18:54:23.030] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:54:23.044] [I] Settings imported
+[2020-11-22 18:54:23.046] [I] Breakpad initialized
+[2020-11-22 18:54:23.048] [I] Process priority: 1
+[2020-11-22 18:54:23.049] [I] Initializing Snipaste...
+[2020-11-22 18:54:23.406] [I] Prefetch...
+[2020-11-22 18:54:23.416] [I] Preloaded 20 files: 0 ms
+[2020-11-22 18:54:23.424] [I] Load default ssl configuration: 16 ms
+[2020-11-22 18:54:23.432] [I] About to apply settings...
+[2020-11-22 18:54:23.482] [I] Settings applied
+[2020-11-22 18:54:23.491] [I] Log level set to: 2
+[2020-11-22 18:54:23.531] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:54:23.533] [I] Header version: 184
+[2020-11-22 18:54:23.533] [I] About to restore pasters...
+[2020-11-22 18:54:23.533] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:54:23.533] [I] Record version: 184
+[2020-11-22 18:54:23.533] [I] To restore: 0
+[2020-11-22 18:54:23.533] [I] Pasters touched
+[2020-11-22 18:54:23.533] [I] All pasters activated: true
+[2020-11-22 18:54:23.583] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:54:23.585] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:54:23.587] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:54:23.587] [I] Pasters restored
+[2020-11-22 18:54:23.587] [I] Launch time: 562 ms
+[2020-11-22 18:55:00.803] [I] Second instance: 5
+[2020-11-22 18:55:00.803] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:55:00.804] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:55:00.804] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:55:00.832] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:55:00.832] [I] Save with file names: ../5.bmp
+[2020-11-22 18:55:00.844] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:55:25.677] [I] Silent feed checking finished
+[2020-11-22 18:55:25.677] [I] No available update
+[2020-11-22 18:55:47.780] [I] Second instance: 5
+[2020-11-22 18:55:47.780] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:55:47.780] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:55:47.780] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:55:47.812] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:55:47.812] [I] Save with file names: ../5.bmp
+[2020-11-22 18:55:47.823] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:55:54.738] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:55:55.717] [I] Quit from tray menu
+[2020-11-22 18:55:55.728] [I] Snipaste: normal exit
+[2020-11-22 18:55:55.729] [I] Snipper: destructed
+[2020-11-22 18:55:55.744] [I] Exit: 0
+
+
+[2020-11-22 18:56:43.845] [I] ***************************************************************
+[2020-11-22 18:56:43.845] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:56:43.845] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:56:43.845] [I] Cores: 8
+[2020-11-22 18:56:43.845] [I] Elevated: false
+[2020-11-22 18:56:43.845] [I] Main thread id: 0x2f10
+[2020-11-22 18:56:43.845] [I] Log level: 2
+[2020-11-22 18:56:43.845] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:56:43.845] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:56:43.845] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:56:43.845] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:56:43.845] [I] Screen scale: 1.0
+[2020-11-22 18:56:43.845] [I] Retina factor: 1.0
+[2020-11-22 18:56:43.845] [I] Screens: 1
+[2020-11-22 18:56:43.845] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:56:43.869] [I] Desktops: 1
+[2020-11-22 18:56:43.869] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:56:43.892] [I] Settings imported
+[2020-11-22 18:56:43.895] [I] Breakpad initialized
+[2020-11-22 18:56:43.898] [I] Process priority: 1
+[2020-11-22 18:56:43.898] [I] Initializing Snipaste...
+[2020-11-22 18:56:44.278] [I] Prefetch...
+[2020-11-22 18:56:44.293] [I] Preloaded 20 files: 16 ms
+[2020-11-22 18:56:44.301] [I] Load default ssl configuration: 16 ms
+[2020-11-22 18:56:44.322] [I] About to apply settings...
+[2020-11-22 18:56:44.386] [I] Settings applied
+[2020-11-22 18:56:44.395] [I] Log level set to: 2
+[2020-11-22 18:56:44.438] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:56:44.439] [I] Header version: 184
+[2020-11-22 18:56:44.440] [I] About to restore pasters...
+[2020-11-22 18:56:44.440] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:56:44.440] [I] Record version: 184
+[2020-11-22 18:56:44.440] [I] To restore: 0
+[2020-11-22 18:56:44.440] [I] Pasters touched
+[2020-11-22 18:56:44.440] [I] All pasters activated: true
+[2020-11-22 18:56:44.486] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:56:44.487] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:56:44.489] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:56:44.489] [I] Pasters restored
+[2020-11-22 18:56:44.489] [I] Launch time: 641 ms
+[2020-11-22 18:56:55.426] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 18:56:56.285] [I] Quit from tray menu
+[2020-11-22 18:56:56.303] [I] Snipaste: normal exit
+[2020-11-22 18:56:56.303] [I] Snipper: destructed
+[2020-11-22 18:56:56.321] [I] Exit: 0
+
+
+[2020-11-22 18:58:24.651] [I] ***************************************************************
+[2020-11-22 18:58:24.651] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 18:58:24.651] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 18:58:24.651] [I] Cores: 8
+[2020-11-22 18:58:24.651] [I] Elevated: false
+[2020-11-22 18:58:24.651] [I] Main thread id: 0x2484
+[2020-11-22 18:58:24.651] [I] Log level: 2
+[2020-11-22 18:58:24.651] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 18:58:24.651] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 18:58:24.651] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:58:24.651] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 18:58:24.651] [I] Screen scale: 1.0
+[2020-11-22 18:58:24.651] [I] Retina factor: 1.0
+[2020-11-22 18:58:24.651] [I] Screens: 1
+[2020-11-22 18:58:24.651] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 18:58:24.672] [I] Desktops: 1
+[2020-11-22 18:58:24.672] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 18:58:24.692] [I] Settings imported
+[2020-11-22 18:58:24.695] [I] Breakpad initialized
+[2020-11-22 18:58:24.698] [I] Process priority: 1
+[2020-11-22 18:58:24.698] [I] Initializing Snipaste...
+[2020-11-22 18:58:25.049] [I] Prefetch...
+[2020-11-22 18:58:25.065] [I] Preloaded 20 files: 15 ms
+[2020-11-22 18:58:25.072] [I] Load default ssl configuration: 15 ms
+[2020-11-22 18:58:25.084] [I] About to apply settings...
+[2020-11-22 18:58:25.144] [I] Settings applied
+[2020-11-22 18:58:25.152] [I] Log level set to: 2
+[2020-11-22 18:58:25.212] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 18:58:25.214] [I] Header version: 184
+[2020-11-22 18:58:25.214] [I] About to restore pasters...
+[2020-11-22 18:58:25.214] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 18:58:25.214] [I] Record version: 184
+[2020-11-22 18:58:25.214] [I] To restore: 0
+[2020-11-22 18:58:25.214] [I] Pasters touched
+[2020-11-22 18:58:25.214] [I] All pasters activated: true
+[2020-11-22 18:58:25.268] [I] Unref images: 0 (0 removed)
+[2020-11-22 18:58:25.269] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 18:58:25.271] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 18:58:25.271] [I] Pasters restored
+[2020-11-22 18:58:25.271] [I] Launch time: 625 ms
+[2020-11-22 18:58:30.156] [I] Second instance: 5
+[2020-11-22 18:58:30.157] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:58:30.157] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:58:30.157] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:58:30.200] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:58:30.200] [I] Save with file names: ../5.bmp
+[2020-11-22 18:58:30.225] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:58:39.359] [I] Second instance: 5
+[2020-11-22 18:58:39.359] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:58:39.360] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:58:39.360] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:58:39.392] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:58:39.392] [I] Save with file names: ../5.bmp
+[2020-11-22 18:58:39.413] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:58:46.975] [I] Second instance: 5
+[2020-11-22 18:58:46.975] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:58:46.975] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:58:46.975] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:58:47.009] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:58:47.009] [I] Save with file names: ../5.bmp
+[2020-11-22 18:58:47.020] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:58:56.586] [I] Second instance: 5
+[2020-11-22 18:58:56.586] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:58:56.586] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:58:56.586] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:58:56.613] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:58:56.613] [I] Save with file names: ../5.bmp
+[2020-11-22 18:58:56.627] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:59:06.149] [I] Second instance: 5
+[2020-11-22 18:59:06.149] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:59:06.150] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:59:06.150] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:59:06.177] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:59:06.177] [I] Save with file names: ../5.bmp
+[2020-11-22 18:59:06.189] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 18:59:27.033] [I] Silent feed checking finished
+[2020-11-22 18:59:27.033] [I] No available update
+[2020-11-22 18:59:41.884] [I] Second instance: 5
+[2020-11-22 18:59:41.884] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 18:59:41.884] [I] Snip request: 2 (dest: 64)
+[2020-11-22 18:59:41.884] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 18:59:41.909] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 18:59:41.909] [I] Save with file names: ../5.bmp
+[2020-11-22 18:59:41.923] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:00:33.047] [I] Second instance: 5
+[2020-11-22 19:00:33.047] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:00:33.048] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:00:33.048] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:00:33.075] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:00:33.075] [I] Save with file names: ../5.bmp
+[2020-11-22 19:00:33.087] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:00:42.811] [I] Second instance: 5
+[2020-11-22 19:00:42.811] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:00:42.811] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:00:42.811] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:00:42.841] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:00:42.841] [I] Save with file names: ../5.bmp
+[2020-11-22 19:00:42.857] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:01:42.805] [I] Second instance: 5
+[2020-11-22 19:01:42.805] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:01:42.806] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:01:42.806] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:01:42.840] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:01:42.841] [I] Save with file names: ../5.bmp
+[2020-11-22 19:01:42.852] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:01:58.597] [I] Second instance: 5
+[2020-11-22 19:01:58.597] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:01:58.598] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:01:58.598] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:01:58.624] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:01:58.624] [I] Save with file names: ../5.bmp
+[2020-11-22 19:01:58.638] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:03:10.190] [I] Second instance: 5
+[2020-11-22 19:03:10.190] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:03:10.191] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:03:10.191] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:03:10.222] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:03:10.222] [I] Save with file names: ../5.bmp
+[2020-11-22 19:03:10.235] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:04:10.819] [I] Second instance: 5
+[2020-11-22 19:04:10.819] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:04:10.819] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:04:10.819] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:04:10.856] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:04:10.856] [I] Save with file names: ../5.bmp
+[2020-11-22 19:04:10.869] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:04:22.466] [I] Second instance: 5
+[2020-11-22 19:04:22.466] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:04:22.467] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:04:22.467] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:04:22.504] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:04:22.504] [I] Save with file names: ../5.bmp
+[2020-11-22 19:04:22.519] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:05:30.495] [I] Second instance: 5
+[2020-11-22 19:05:30.495] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:05:30.496] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:05:30.496] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:05:30.521] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:05:30.521] [I] Save with file names: ../5.bmp
+[2020-11-22 19:05:30.534] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:07:57.297] [I] Second instance: 5
+[2020-11-22 19:07:57.297] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:07:57.297] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:07:57.297] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:07:57.340] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:07:57.340] [I] Save with file names: ../5.bmp
+[2020-11-22 19:07:57.357] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:08:17.278] [I] Second instance: 5
+[2020-11-22 19:08:17.278] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:08:17.278] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:08:17.278] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:08:17.301] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:08:17.301] [I] Save with file names: ../5.bmp
+[2020-11-22 19:08:17.314] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:08:37.076] [I] Second instance: 5
+[2020-11-22 19:08:37.076] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:08:37.076] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:08:37.076] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:08:37.101] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:08:37.101] [I] Save with file names: ../5.bmp
+[2020-11-22 19:08:37.115] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:08:55.662] [I] Second instance: 5
+[2020-11-22 19:08:55.662] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:08:55.662] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:08:55.662] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:08:55.684] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:08:55.684] [I] Save with file names: ../5.bmp
+[2020-11-22 19:08:55.699] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:09:14.848] [I] Second instance: 5
+[2020-11-22 19:09:14.848] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:09:14.849] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:09:14.849] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:09:14.890] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:09:14.890] [I] Save with file names: ../5.bmp
+[2020-11-22 19:09:14.913] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:09:41.832] [I] Second instance: 5
+[2020-11-22 19:09:41.832] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:09:41.833] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:09:41.833] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:09:41.867] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:09:41.867] [I] Save with file names: ../5.bmp
+[2020-11-22 19:09:41.889] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:09:58.377] [I] Second instance: 5
+[2020-11-22 19:09:58.377] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:09:58.377] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:09:58.377] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:09:58.399] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:09:58.399] [I] Save with file names: ../5.bmp
+[2020-11-22 19:09:58.413] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:10:31.405] [I] Second instance: 5
+[2020-11-22 19:10:31.405] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:10:31.405] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:10:31.405] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:10:31.434] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:10:31.434] [I] Save with file names: ../5.bmp
+[2020-11-22 19:10:31.447] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:11:23.576] [I] Second instance: 5
+[2020-11-22 19:11:23.576] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:11:23.576] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:11:23.576] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:11:23.599] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:11:23.599] [I] Save with file names: ../5.bmp
+[2020-11-22 19:11:23.611] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:11:42.792] [I] Second instance: 5
+[2020-11-22 19:11:42.792] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:11:42.792] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:11:42.792] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:11:42.816] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:11:42.816] [I] Save with file names: ../5.bmp
+[2020-11-22 19:11:42.829] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:12:12.534] [I] Second instance: 5
+[2020-11-22 19:12:12.534] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:12:12.534] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:12:12.534] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:12:12.566] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:12:12.566] [I] Save with file names: ../5.bmp
+[2020-11-22 19:12:12.577] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:15:07.306] [I] Second instance: 5
+[2020-11-22 19:15:07.306] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:15:07.306] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:15:07.306] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:15:07.330] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:15:07.330] [I] Save with file names: ../5.bmp
+[2020-11-22 19:15:07.345] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:17:57.244] [I] Preloaded 20 files: 31 ms [every 19.5 m]
+[2020-11-22 19:18:43.630] [I] Second instance: 5
+[2020-11-22 19:18:43.630] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:18:43.630] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:18:43.630] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:18:43.661] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:18:43.661] [I] Save with file names: ../5.bmp
+[2020-11-22 19:18:43.675] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:23:00.796] [I] Second instance: 5
+[2020-11-22 19:23:00.796] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:23:00.796] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:23:00.796] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:23:00.825] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:23:00.825] [I] Save with file names: ../5.bmp
+[2020-11-22 19:23:00.842] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:24:02.688] [I] Second instance: 5
+[2020-11-22 19:24:02.688] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:24:02.689] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:24:02.689] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:24:02.730] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:24:02.730] [I] Save with file names: ../5.bmp
+[2020-11-22 19:24:02.744] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:24:56.373] [I] Second instance: 5
+[2020-11-22 19:24:56.373] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:24:56.373] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:24:56.373] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:24:56.407] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:24:56.407] [I] Save with file names: ../5.bmp
+[2020-11-22 19:24:56.420] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:25:49.355] [I] Second instance: 5
+[2020-11-22 19:25:49.355] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:25:49.355] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:25:49.355] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:25:49.390] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:25:49.390] [I] Save with file names: ../5.bmp
+[2020-11-22 19:25:49.403] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:26:19.670] [I] Second instance: 5
+[2020-11-22 19:26:19.670] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:26:19.670] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:26:19.670] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:26:19.713] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:26:19.713] [I] Save with file names: ../5.bmp
+[2020-11-22 19:26:19.737] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:27:22.991] [I] Second instance: 5
+[2020-11-22 19:27:22.991] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:27:22.991] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:27:22.991] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:27:23.024] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:27:23.024] [I] Save with file names: ../5.bmp
+[2020-11-22 19:27:23.036] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:35:23.063] [I] Second instance: 5
+[2020-11-22 19:35:23.063] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:35:23.063] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:35:23.063] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:35:23.100] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:35:23.100] [I] Save with file names: ../5.bmp
+[2020-11-22 19:35:23.112] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:35:41.474] [I] Second instance: 5
+[2020-11-22 19:35:41.474] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:35:41.474] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:35:41.474] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:35:41.500] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:35:41.500] [I] Save with file names: ../5.bmp
+[2020-11-22 19:35:41.513] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:36:11.720] [I] Second instance: 5
+[2020-11-22 19:36:11.720] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:36:11.720] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:36:11.720] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:36:11.749] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:36:11.749] [I] Save with file names: ../5.bmp
+[2020-11-22 19:36:11.771] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:36:59.423] [I] Second instance: 5
+[2020-11-22 19:36:59.423] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:36:59.424] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:36:59.424] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:36:59.448] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:36:59.448] [I] Save with file names: ../5.bmp
+[2020-11-22 19:36:59.462] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:37:28.980] [I] Second instance: 5
+[2020-11-22 19:37:28.980] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:37:28.980] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:37:28.980] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:37:29.023] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:37:29.023] [I] Save with file names: ../5.bmp
+[2020-11-22 19:37:29.046] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:38:14.389] [I] Second instance: 5
+[2020-11-22 19:38:14.389] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:38:14.389] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:38:14.389] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:38:14.414] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:38:14.414] [I] Save with file names: ../5.bmp
+[2020-11-22 19:38:14.428] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:38:42.435] [I] Second instance: 5
+[2020-11-22 19:38:42.435] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:38:42.435] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:38:42.435] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:38:42.464] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:38:42.464] [I] Save with file names: ../5.bmp
+[2020-11-22 19:38:42.477] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:39:05.852] [I] Second instance: 5
+[2020-11-22 19:39:05.852] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:39:05.852] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:39:05.852] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:39:05.883] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:39:05.883] [I] Save with file names: ../5.bmp
+[2020-11-22 19:39:05.895] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:39:22.051] [I] Second instance: 5
+[2020-11-22 19:39:22.051] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:39:22.052] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:39:22.052] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:39:22.083] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:39:22.083] [I] Save with file names: ../5.bmp
+[2020-11-22 19:39:22.095] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:40:25.733] [I] Second instance: 5
+[2020-11-22 19:40:25.733] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:40:25.733] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:40:25.733] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:40:25.764] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:40:25.764] [I] Save with file names: ../5.bmp
+[2020-11-22 19:40:25.778] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:40:48.113] [I] Second instance: 5
+[2020-11-22 19:40:48.113] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:40:48.114] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:40:48.114] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:40:48.147] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:40:48.147] [I] Save with file names: ../5.bmp
+[2020-11-22 19:40:48.171] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:41:21.294] [I] Second instance: 5
+[2020-11-22 19:41:21.294] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:41:21.294] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:41:21.294] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:41:21.333] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:41:21.333] [I] Save with file names: ../5.bmp
+[2020-11-22 19:41:21.357] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:42:22.260] [I] Preloaded 20 files: 26 ms [every 24.4 m]
+[2020-11-22 19:44:58.543] [I] Second instance: 5
+[2020-11-22 19:44:58.543] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:44:58.544] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:44:58.544] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:44:58.576] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:44:58.576] [I] Save with file names: ../5.bmp
+[2020-11-22 19:44:58.590] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:45:40.643] [I] Second instance: 5
+[2020-11-22 19:45:40.643] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:45:40.643] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:45:40.643] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:45:40.677] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:45:40.677] [I] Save with file names: ../5.bmp
+[2020-11-22 19:45:40.700] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:47:59.247] [I] Second instance: 5
+[2020-11-22 19:47:59.247] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:47:59.247] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:47:59.247] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:47:59.275] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:47:59.275] [I] Save with file names: ../5.bmp
+[2020-11-22 19:47:59.289] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:48:26.896] [I] Second instance: 5
+[2020-11-22 19:48:26.896] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:48:26.896] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:48:26.896] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:48:26.925] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:48:26.925] [I] Save with file names: ../5.bmp
+[2020-11-22 19:48:26.936] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:48:58.680] [I] Second instance: 5
+[2020-11-22 19:48:58.680] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:48:58.680] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:48:58.680] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:48:58.706] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:48:58.706] [I] Save with file names: ../5.bmp
+[2020-11-22 19:48:58.720] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 19:56:52.976] [I] Second instance: 5
+[2020-11-22 19:56:52.976] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 19:56:52.976] [I] Snip request: 2 (dest: 64)
+[2020-11-22 19:56:52.976] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 19:56:53.002] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 19:56:53.002] [I] Save with file names: ../5.bmp
+[2020-11-22 19:56:53.015] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 20:04:52.939] [I] Second instance: 5
+[2020-11-22 20:04:52.939] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 20:04:52.939] [I] Snip request: 2 (dest: 64)
+[2020-11-22 20:04:52.939] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 20:04:52.974] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 20:04:52.974] [I] Save with file names: ../5.bmp
+[2020-11-22 20:04:52.987] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 20:12:22.297] [I] Preloaded 20 files: 35 ms [every 30.0 m]
+[2020-11-22 20:14:42.864] [I] Second instance: 5
+[2020-11-22 20:14:42.864] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 20:14:42.864] [I] Snip request: 2 (dest: 64)
+[2020-11-22 20:14:42.864] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 20:14:42.890] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 20:14:42.890] [I] Save with file names: ../5.bmp
+[2020-11-22 20:14:42.904] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 20:15:09.567] [I] Second instance: 5
+[2020-11-22 20:15:09.567] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-22 20:15:09.567] [I] Snip request: 2 (dest: 64)
+[2020-11-22 20:15:09.568] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-22 20:15:09.608] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-22 20:15:09.608] [I] Save with file names: ../5.bmp
+[2020-11-22 20:15:09.619] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-22 20:42:22.334] [I] Preloaded 20 files: 32 ms [every 30.0 m]
+[2020-11-22 21:12:22.374] [I] Preloaded 20 files: 24 ms [every 30.0 m]
+[2020-11-22 21:25:24.172] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 21:25:25.214] [I] Quit from tray menu
+[2020-11-22 21:25:25.233] [I] Snipaste: normal exit
+[2020-11-22 21:25:25.233] [I] Snipper: destructed
+[2020-11-22 21:25:25.254] [I] Exit: 0
+
+
+[2020-11-22 22:24:39.095] [I] ***************************************************************
+[2020-11-22 22:24:39.095] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 22:24:39.095] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 22:24:39.095] [I] Cores: 8
+[2020-11-22 22:24:39.095] [I] Elevated: false
+[2020-11-22 22:24:39.095] [I] Main thread id: 0x2b64
+[2020-11-22 22:24:39.095] [I] Log level: 2
+[2020-11-22 22:24:39.095] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 22:24:39.095] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 22:24:39.095] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 22:24:39.095] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 22:24:39.095] [I] Screen scale: 1.0
+[2020-11-22 22:24:39.095] [I] Retina factor: 1.0
+[2020-11-22 22:24:39.096] [I] Screens: 1
+[2020-11-22 22:24:39.096] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 22:24:39.118] [I] Desktops: 1
+[2020-11-22 22:24:39.118] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 22:24:39.139] [I] Settings imported
+[2020-11-22 22:24:39.142] [I] Breakpad initialized
+[2020-11-22 22:24:39.145] [I] Process priority: 1
+[2020-11-22 22:24:39.145] [I] Initializing Snipaste...
+[2020-11-22 22:24:39.513] [I] Prefetch...
+[2020-11-22 22:24:39.529] [I] Preloaded 20 files: 16 ms
+[2020-11-22 22:24:39.539] [I] Load default ssl configuration: 32 ms
+[2020-11-22 22:24:39.552] [I] About to apply settings...
+[2020-11-22 22:24:39.613] [I] Settings applied
+[2020-11-22 22:24:39.623] [I] Log level set to: 2
+[2020-11-22 22:24:39.666] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 22:24:39.667] [I] Header version: 184
+[2020-11-22 22:24:39.667] [I] About to restore pasters...
+[2020-11-22 22:24:39.668] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 22:24:39.668] [I] Record version: 184
+[2020-11-22 22:24:39.668] [I] To restore: 0
+[2020-11-22 22:24:39.668] [I] Pasters touched
+[2020-11-22 22:24:39.668] [I] All pasters activated: true
+[2020-11-22 22:24:39.726] [I] Unref images: 0 (0 removed)
+[2020-11-22 22:24:39.727] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 22:24:39.729] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 22:24:39.729] [I] Pasters restored
+[2020-11-22 22:24:39.729] [I] Launch time: 642 ms
+[2020-11-22 22:24:43.998] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 22:24:44.617] [I] Quit from tray menu
+[2020-11-22 22:24:44.635] [I] Snipaste: normal exit
+[2020-11-22 22:24:44.636] [I] Snipper: destructed
+[2020-11-22 22:24:44.653] [I] Exit: 0
+
+
+[2020-11-22 22:27:39.073] [I] ***************************************************************
+[2020-11-22 22:27:39.073] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 22:27:39.073] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 22:27:39.073] [I] Cores: 8
+[2020-11-22 22:27:39.073] [I] Elevated: false
+[2020-11-22 22:27:39.073] [I] Main thread id: 0xd80
+[2020-11-22 22:27:39.073] [I] Log level: 2
+[2020-11-22 22:27:39.073] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 22:27:39.073] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 22:27:39.073] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 22:27:39.073] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 22:27:39.073] [I] Screen scale: 1.0
+[2020-11-22 22:27:39.073] [I] Retina factor: 1.0
+[2020-11-22 22:27:39.073] [I] Screens: 1
+[2020-11-22 22:27:39.073] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 22:27:39.097] [I] Desktops: 1
+[2020-11-22 22:27:39.097] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 22:27:39.115] [I] Settings imported
+[2020-11-22 22:27:39.118] [I] Breakpad initialized
+[2020-11-22 22:27:39.121] [I] Process priority: 1
+[2020-11-22 22:27:39.121] [I] Initializing Snipaste...
+[2020-11-22 22:27:39.478] [I] Prefetch...
+[2020-11-22 22:27:39.494] [I] Preloaded 20 files: 16 ms
+[2020-11-22 22:27:39.504] [I] Load default ssl configuration: 16 ms
+[2020-11-22 22:27:39.517] [I] About to apply settings...
+[2020-11-22 22:27:39.577] [I] Settings applied
+[2020-11-22 22:27:39.585] [I] Log level set to: 2
+[2020-11-22 22:27:39.626] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 22:27:39.627] [I] Header version: 184
+[2020-11-22 22:27:39.627] [I] About to restore pasters...
+[2020-11-22 22:27:39.628] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 22:27:39.628] [I] Record version: 184
+[2020-11-22 22:27:39.628] [I] To restore: 0
+[2020-11-22 22:27:39.628] [I] Pasters touched
+[2020-11-22 22:27:39.628] [I] All pasters activated: true
+[2020-11-22 22:27:39.678] [I] Unref images: 0 (0 removed)
+[2020-11-22 22:27:39.679] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 22:27:39.681] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 22:27:39.681] [I] Pasters restored
+[2020-11-22 22:27:39.682] [I] Launch time: 627 ms
+[2020-11-22 22:27:45.006] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 22:27:45.633] [I] Quit from tray menu
+[2020-11-22 22:27:45.650] [I] Snipaste: normal exit
+[2020-11-22 22:27:45.651] [I] Snipper: destructed
+[2020-11-22 22:27:45.666] [I] Exit: 0
+
+
+[2020-11-22 22:28:46.831] [I] ***************************************************************
+[2020-11-22 22:28:46.831] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 22:28:46.831] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 22:28:46.831] [I] Cores: 8
+[2020-11-22 22:28:46.831] [I] Elevated: false
+[2020-11-22 22:28:46.831] [I] Main thread id: 0x6b4
+[2020-11-22 22:28:46.831] [I] Log level: 2
+[2020-11-22 22:28:46.831] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 22:28:46.831] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 22:28:46.831] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 22:28:46.831] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 22:28:46.831] [I] Screen scale: 1.0
+[2020-11-22 22:28:46.831] [I] Retina factor: 1.0
+[2020-11-22 22:28:46.831] [I] Screens: 1
+[2020-11-22 22:28:46.831] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 22:28:46.856] [I] Desktops: 1
+[2020-11-22 22:28:46.856] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 22:28:46.877] [I] Settings imported
+[2020-11-22 22:28:46.880] [I] Breakpad initialized
+[2020-11-22 22:28:46.883] [I] Process priority: 1
+[2020-11-22 22:28:46.883] [I] Initializing Snipaste...
+[2020-11-22 22:28:47.246] [I] Prefetch...
+[2020-11-22 22:28:47.262] [I] Preloaded 20 files: 15 ms
+[2020-11-22 22:28:47.271] [I] Load default ssl configuration: 31 ms
+[2020-11-22 22:28:47.284] [I] About to apply settings...
+[2020-11-22 22:28:47.342] [I] Settings applied
+[2020-11-22 22:28:47.351] [I] Log level set to: 2
+[2020-11-22 22:28:47.391] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 22:28:47.392] [I] Header version: 184
+[2020-11-22 22:28:47.392] [I] About to restore pasters...
+[2020-11-22 22:28:47.392] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 22:28:47.392] [I] Record version: 184
+[2020-11-22 22:28:47.392] [I] To restore: 0
+[2020-11-22 22:28:47.392] [I] Pasters touched
+[2020-11-22 22:28:47.392] [I] All pasters activated: true
+[2020-11-22 22:28:47.437] [I] Unref images: 0 (0 removed)
+[2020-11-22 22:28:47.438] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 22:28:47.440] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 22:28:47.440] [I] Pasters restored
+[2020-11-22 22:28:47.440] [I] Launch time: 611 ms
+[2020-11-22 22:28:56.757] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 22:28:57.353] [I] Quit from tray menu
+[2020-11-22 22:28:57.370] [I] Snipaste: normal exit
+[2020-11-22 22:28:57.370] [I] Snipper: destructed
+[2020-11-22 22:28:57.385] [I] Exit: 0
+
+
+[2020-11-22 23:11:31.488] [I] ***************************************************************
+[2020-11-22 23:11:31.488] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-22 23:11:31.488] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-22 23:11:31.488] [I] Cores: 8
+[2020-11-22 23:11:31.488] [I] Elevated: false
+[2020-11-22 23:11:31.488] [I] Main thread id: 0x51c
+[2020-11-22 23:11:31.488] [I] Log level: 2
+[2020-11-22 23:11:31.488] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-22 23:11:31.488] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-22 23:11:31.488] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 23:11:31.488] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-22 23:11:31.488] [I] Screen scale: 1.0
+[2020-11-22 23:11:31.488] [I] Retina factor: 1.0
+[2020-11-22 23:11:31.488] [I] Screens: 1
+[2020-11-22 23:11:31.488] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-22 23:11:31.511] [I] Desktops: 1
+[2020-11-22 23:11:31.511] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-22 23:11:31.531] [I] Settings imported
+[2020-11-22 23:11:31.534] [I] Breakpad initialized
+[2020-11-22 23:11:31.537] [I] Process priority: 1
+[2020-11-22 23:11:31.537] [I] Initializing Snipaste...
+[2020-11-22 23:11:31.906] [I] Prefetch...
+[2020-11-22 23:11:31.922] [I] Preloaded 20 files: 16 ms
+[2020-11-22 23:11:31.930] [I] Load default ssl configuration: 16 ms
+[2020-11-22 23:11:31.943] [I] About to apply settings...
+[2020-11-22 23:11:32.003] [I] Settings applied
+[2020-11-22 23:11:32.011] [I] Log level set to: 2
+[2020-11-22 23:11:32.055] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-22 23:11:32.056] [I] Header version: 184
+[2020-11-22 23:11:32.056] [I] About to restore pasters...
+[2020-11-22 23:11:32.056] [I] Group 0 [741BLT]: "默认"
+[2020-11-22 23:11:32.056] [I] Record version: 184
+[2020-11-22 23:11:32.056] [I] To restore: 0
+[2020-11-22 23:11:32.057] [I] Pasters touched
+[2020-11-22 23:11:32.057] [I] All pasters activated: true
+[2020-11-22 23:11:32.102] [I] Unref images: 0 (0 removed)
+[2020-11-22 23:11:32.103] [I] Unref dirs: 0 (0 removed)
+[2020-11-22 23:11:32.104] [I] Empty history info files: 0 (0 removed)
+[2020-11-22 23:11:32.104] [I] Pasters restored
+[2020-11-22 23:11:32.105] [I] Launch time: 628 ms
+[2020-11-22 23:12:41.624] [I] Silent feed checking finished
+[2020-11-22 23:12:41.624] [I] No available update
+[2020-11-22 23:25:04.065] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-22 23:25:04.740] [I] Quit from tray menu
+[2020-11-22 23:25:04.757] [I] Snipaste: normal exit
+[2020-11-22 23:25:04.758] [I] Snipper: destructed
+[2020-11-22 23:25:04.774] [I] Exit: 0
+
+
+[2020-11-23 19:14:42.784] [I] ***************************************************************
+[2020-11-23 19:14:42.784] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-23 19:14:42.784] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-23 19:14:42.784] [I] Cores: 8
+[2020-11-23 19:14:42.784] [I] Elevated: false
+[2020-11-23 19:14:42.784] [I] Main thread id: 0x1420
+[2020-11-23 19:14:42.784] [I] Log level: 2
+[2020-11-23 19:14:42.784] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-23 19:14:42.784] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-23 19:14:42.785] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:14:42.785] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-23 19:14:42.785] [I] Screen scale: 1.0
+[2020-11-23 19:14:42.785] [I] Retina factor: 1.0
+[2020-11-23 19:14:42.785] [I] Screens: 1
+[2020-11-23 19:14:42.785] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-23 19:14:42.810] [I] Desktops: 1
+[2020-11-23 19:14:42.810] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:14:42.833] [I] Settings imported
+[2020-11-23 19:14:42.836] [I] Breakpad initialized
+[2020-11-23 19:14:42.839] [I] Process priority: 1
+[2020-11-23 19:14:42.839] [I] Initializing Snipaste...
+[2020-11-23 19:14:43.253] [I] Prefetch...
+[2020-11-23 19:14:43.271] [I] Preloaded 20 files: 15 ms
+[2020-11-23 19:14:43.286] [I] Load default ssl configuration: 31 ms
+[2020-11-23 19:14:43.299] [I] About to apply settings...
+[2020-11-23 19:14:43.387] [I] Settings applied
+[2020-11-23 19:14:43.400] [I] Log level set to: 2
+[2020-11-23 19:14:43.441] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-23 19:14:43.442] [I] Header version: 184
+[2020-11-23 19:14:43.442] [I] About to restore pasters...
+[2020-11-23 19:14:43.443] [I] Group 0 [741BLT]: "默认"
+[2020-11-23 19:14:43.443] [I] Record version: 184
+[2020-11-23 19:14:43.443] [I] To restore: 0
+[2020-11-23 19:14:43.443] [I] Pasters touched
+[2020-11-23 19:14:43.443] [I] All pasters activated: true
+[2020-11-23 19:14:43.498] [I] Unref images: 0 (0 removed)
+[2020-11-23 19:14:43.499] [I] Unref dirs: 0 (0 removed)
+[2020-11-23 19:14:43.501] [I] Empty history info files: 0 (0 removed)
+[2020-11-23 19:14:43.501] [I] Pasters restored
+[2020-11-23 19:14:43.502] [I] Launch time: 719 ms
+[2020-11-23 19:14:49.406] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-23 19:14:50.025] [I] Quit from tray menu
+[2020-11-23 19:14:50.044] [I] Snipaste: normal exit
+[2020-11-23 19:14:50.044] [I] Snipper: destructed
+[2020-11-23 19:14:50.062] [I] Exit: 0
+
+
+[2020-11-23 19:15:01.585] [I] ***************************************************************
+[2020-11-23 19:15:01.585] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-23 19:15:01.585] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-23 19:15:01.585] [I] Cores: 8
+[2020-11-23 19:15:01.585] [I] Elevated: false
+[2020-11-23 19:15:01.585] [I] Main thread id: 0x24c4
+[2020-11-23 19:15:01.585] [I] Log level: 2
+[2020-11-23 19:15:01.585] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-23 19:15:01.585] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-23 19:15:01.585] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:15:01.585] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-23 19:15:01.585] [I] Screen scale: 1.0
+[2020-11-23 19:15:01.585] [I] Retina factor: 1.0
+[2020-11-23 19:15:01.585] [I] Screens: 1
+[2020-11-23 19:15:01.585] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-23 19:15:01.609] [I] Desktops: 1
+[2020-11-23 19:15:01.609] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:15:01.632] [I] Settings imported
+[2020-11-23 19:15:01.635] [I] Breakpad initialized
+[2020-11-23 19:15:01.638] [I] Process priority: 1
+[2020-11-23 19:15:01.638] [I] Initializing Snipaste...
+[2020-11-23 19:15:02.010] [I] Prefetch...
+[2020-11-23 19:15:02.026] [I] Preloaded 20 files: 15 ms
+[2020-11-23 19:15:02.035] [I] Load default ssl configuration: 31 ms
+[2020-11-23 19:15:02.049] [I] About to apply settings...
+[2020-11-23 19:15:02.119] [I] Settings applied
+[2020-11-23 19:15:02.128] [I] Log level set to: 2
+[2020-11-23 19:15:02.170] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-23 19:15:02.172] [I] Header version: 184
+[2020-11-23 19:15:02.172] [I] About to restore pasters...
+[2020-11-23 19:15:02.172] [I] Group 0 [741BLT]: "默认"
+[2020-11-23 19:15:02.172] [I] Record version: 184
+[2020-11-23 19:15:02.172] [I] To restore: 0
+[2020-11-23 19:15:02.172] [I] Pasters touched
+[2020-11-23 19:15:02.172] [I] All pasters activated: true
+[2020-11-23 19:15:02.219] [I] Unref images: 0 (0 removed)
+[2020-11-23 19:15:02.220] [I] Unref dirs: 0 (0 removed)
+[2020-11-23 19:15:02.222] [I] Empty history info files: 0 (0 removed)
+[2020-11-23 19:15:02.222] [I] Pasters restored
+[2020-11-23 19:15:02.222] [I] Launch time: 656 ms
+[2020-11-23 19:16:04.659] [I] Silent feed checking finished
+[2020-11-23 19:16:04.659] [I] No available update
+[2020-11-23 19:16:16.948] [I] Second instance: 5
+[2020-11-23 19:16:16.948] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:16:16.948] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:16:16.948] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:16:16.983] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:16:16.983] [I] Save with file names: ../5.bmp
+[2020-11-23 19:16:16.995] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:16:24.262] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-23 19:16:25.041] [I] Quit from tray menu
+[2020-11-23 19:16:25.057] [I] Snipaste: normal exit
+[2020-11-23 19:16:25.057] [I] Snipper: destructed
+[2020-11-23 19:16:25.074] [I] Exit: 0
+
+
+[2020-11-23 19:18:54.404] [I] ***************************************************************
+[2020-11-23 19:18:54.404] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-23 19:18:54.404] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-23 19:18:54.404] [I] Cores: 8
+[2020-11-23 19:18:54.404] [I] Elevated: false
+[2020-11-23 19:18:54.404] [I] Main thread id: 0x1670
+[2020-11-23 19:18:54.404] [I] Log level: 2
+[2020-11-23 19:18:54.404] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-23 19:18:54.404] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-23 19:18:54.404] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:18:54.404] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-23 19:18:54.404] [I] Screen scale: 1.0
+[2020-11-23 19:18:54.404] [I] Retina factor: 1.0
+[2020-11-23 19:18:54.405] [I] Screens: 1
+[2020-11-23 19:18:54.405] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-23 19:18:54.425] [I] Desktops: 1
+[2020-11-23 19:18:54.425] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:18:54.446] [I] Settings imported
+[2020-11-23 19:18:54.448] [I] Breakpad initialized
+[2020-11-23 19:18:54.451] [I] Process priority: 1
+[2020-11-23 19:18:54.452] [I] Initializing Snipaste...
+[2020-11-23 19:18:54.805] [I] Prefetch...
+[2020-11-23 19:18:54.820] [I] Preloaded 20 files: 16 ms
+[2020-11-23 19:18:54.828] [I] Load default ssl configuration: 31 ms
+[2020-11-23 19:18:54.840] [I] About to apply settings...
+[2020-11-23 19:18:54.900] [I] Settings applied
+[2020-11-23 19:18:54.909] [I] Log level set to: 2
+[2020-11-23 19:18:54.949] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-23 19:18:54.950] [I] Header version: 184
+[2020-11-23 19:18:54.950] [I] About to restore pasters...
+[2020-11-23 19:18:54.950] [I] Group 0 [741BLT]: "默认"
+[2020-11-23 19:18:54.950] [I] Record version: 184
+[2020-11-23 19:18:54.950] [I] To restore: 0
+[2020-11-23 19:18:54.950] [I] Pasters touched
+[2020-11-23 19:18:54.950] [I] All pasters activated: true
+[2020-11-23 19:18:55.004] [I] Unref images: 0 (0 removed)
+[2020-11-23 19:18:55.005] [I] Unref dirs: 0 (0 removed)
+[2020-11-23 19:18:55.006] [I] Empty history info files: 0 (0 removed)
+[2020-11-23 19:18:55.006] [I] Pasters restored
+[2020-11-23 19:18:55.007] [I] Launch time: 609 ms
+[2020-11-23 19:18:59.997] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-23 19:19:00.735] [I] Quit from tray menu
+[2020-11-23 19:19:00.753] [I] Snipaste: normal exit
+[2020-11-23 19:19:00.753] [I] Snipper: destructed
+[2020-11-23 19:19:00.769] [I] Exit: 0
+
+
+[2020-11-23 19:20:28.069] [I] ***************************************************************
+[2020-11-23 19:20:28.069] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-23 19:20:28.069] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-23 19:20:28.069] [I] Cores: 8
+[2020-11-23 19:20:28.069] [I] Elevated: false
+[2020-11-23 19:20:28.069] [I] Main thread id: 0x738
+[2020-11-23 19:20:28.069] [I] Log level: 2
+[2020-11-23 19:20:28.069] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-23 19:20:28.069] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-23 19:20:28.069] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:20:28.069] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-23 19:20:28.069] [I] Screen scale: 1.0
+[2020-11-23 19:20:28.069] [I] Retina factor: 1.0
+[2020-11-23 19:20:28.069] [I] Screens: 1
+[2020-11-23 19:20:28.069] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-23 19:20:28.095] [I] Desktops: 1
+[2020-11-23 19:20:28.095] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:20:28.115] [I] Settings imported
+[2020-11-23 19:20:28.117] [I] Breakpad initialized
+[2020-11-23 19:20:28.120] [I] Process priority: 1
+[2020-11-23 19:20:28.121] [I] Initializing Snipaste...
+[2020-11-23 19:20:28.473] [I] Prefetch...
+[2020-11-23 19:20:28.488] [I] Preloaded 20 files: 16 ms
+[2020-11-23 19:20:28.496] [I] Load default ssl configuration: 16 ms
+[2020-11-23 19:20:28.508] [I] About to apply settings...
+[2020-11-23 19:20:28.568] [I] Settings applied
+[2020-11-23 19:20:28.576] [I] Log level set to: 2
+[2020-11-23 19:20:28.618] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-23 19:20:28.619] [I] Header version: 184
+[2020-11-23 19:20:28.619] [I] About to restore pasters...
+[2020-11-23 19:20:28.619] [I] Group 0 [741BLT]: "默认"
+[2020-11-23 19:20:28.619] [I] Record version: 184
+[2020-11-23 19:20:28.619] [I] To restore: 0
+[2020-11-23 19:20:28.619] [I] Pasters touched
+[2020-11-23 19:20:28.619] [I] All pasters activated: true
+[2020-11-23 19:20:28.668] [I] Unref images: 0 (0 removed)
+[2020-11-23 19:20:28.668] [I] Unref dirs: 0 (0 removed)
+[2020-11-23 19:20:28.670] [I] Empty history info files: 0 (0 removed)
+[2020-11-23 19:20:28.670] [I] Pasters restored
+[2020-11-23 19:20:28.671] [I] Launch time: 609 ms
+[2020-11-23 19:20:41.708] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-23 19:20:42.295] [I] Quit from tray menu
+[2020-11-23 19:20:42.312] [I] Snipaste: normal exit
+[2020-11-23 19:20:42.312] [I] Snipper: destructed
+[2020-11-23 19:20:42.329] [I] Exit: 0
+
+
+[2020-11-23 19:23:05.110] [I] ***************************************************************
+[2020-11-23 19:23:05.110] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-11-23 19:23:05.110] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-11-23 19:23:05.110] [I] Cores: 8
+[2020-11-23 19:23:05.110] [I] Elevated: false
+[2020-11-23 19:23:05.110] [I] Main thread id: 0x2174
+[2020-11-23 19:23:05.110] [I] Log level: 2
+[2020-11-23 19:23:05.111] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-11-23 19:23:05.111] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-11-23 19:23:05.111] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:23:05.111] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-11-23 19:23:05.111] [I] Screen scale: 1.0
+[2020-11-23 19:23:05.111] [I] Retina factor: 1.0
+[2020-11-23 19:23:05.111] [I] Screens: 1
+[2020-11-23 19:23:05.111] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-11-23 19:23:05.133] [I] Desktops: 1
+[2020-11-23 19:23:05.133] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-11-23 19:23:05.154] [I] Settings imported
+[2020-11-23 19:23:05.157] [I] Breakpad initialized
+[2020-11-23 19:23:05.160] [I] Process priority: 1
+[2020-11-23 19:23:05.160] [I] Initializing Snipaste...
+[2020-11-23 19:23:05.514] [I] Prefetch...
+[2020-11-23 19:23:05.530] [I] Preloaded 20 files: 16 ms
+[2020-11-23 19:23:05.537] [I] Load default ssl configuration: 16 ms
+[2020-11-23 19:23:05.548] [I] About to apply settings...
+[2020-11-23 19:23:05.609] [I] Settings applied
+[2020-11-23 19:23:05.618] [I] Log level set to: 2
+[2020-11-23 19:23:05.671] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-11-23 19:23:05.674] [I] Header version: 184
+[2020-11-23 19:23:05.674] [I] About to restore pasters...
+[2020-11-23 19:23:05.675] [I] Group 0 [741BLT]: "默认"
+[2020-11-23 19:23:05.675] [I] Record version: 184
+[2020-11-23 19:23:05.675] [I] To restore: 0
+[2020-11-23 19:23:05.675] [I] Pasters touched
+[2020-11-23 19:23:05.675] [I] All pasters activated: true
+[2020-11-23 19:23:05.724] [I] Unref images: 0 (0 removed)
+[2020-11-23 19:23:05.726] [I] Unref dirs: 0 (0 removed)
+[2020-11-23 19:23:05.728] [I] Empty history info files: 0 (0 removed)
+[2020-11-23 19:23:05.728] [I] Pasters restored
+[2020-11-23 19:23:05.728] [I] Launch time: 625 ms
+[2020-11-23 19:24:06.780] [I] Silent feed checking finished
+[2020-11-23 19:24:06.780] [I] No available update
+[2020-11-23 19:24:44.531] [I] Second instance: 5
+[2020-11-23 19:24:44.531] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:24:44.532] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:24:44.532] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:24:44.555] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:24:44.555] [I] Save with file names: ../5.bmp
+[2020-11-23 19:24:44.570] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:25:04.968] [I] Second instance: 5
+[2020-11-23 19:25:04.968] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:25:04.969] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:25:04.969] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:25:04.993] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:25:04.993] [I] Save with file names: ../5.bmp
+[2020-11-23 19:25:05.008] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:25:21.595] [I] Second instance: 5
+[2020-11-23 19:25:21.595] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:25:21.596] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:25:21.596] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:25:21.626] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:25:21.626] [I] Save with file names: ../5.bmp
+[2020-11-23 19:25:21.640] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:26:44.130] [I] Second instance: 5
+[2020-11-23 19:26:44.130] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:26:44.131] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:26:44.131] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:26:44.158] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:26:44.158] [I] Save with file names: ../5.bmp
+[2020-11-23 19:26:44.183] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:27:14.109] [I] Second instance: 5
+[2020-11-23 19:27:14.109] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:27:14.109] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:27:14.109] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:27:14.141] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:27:14.141] [I] Save with file names: ../5.bmp
+[2020-11-23 19:27:14.155] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:27:50.243] [I] Second instance: 5
+[2020-11-23 19:27:50.243] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:27:50.244] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:27:50.244] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:27:50.278] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:27:50.278] [I] Save with file names: ../5.bmp
+[2020-11-23 19:27:50.302] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:28:10.089] [I] Second instance: 5
+[2020-11-23 19:28:10.089] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:28:10.089] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:28:10.089] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:28:10.124] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:28:10.124] [I] Save with file names: ../5.bmp
+[2020-11-23 19:28:10.138] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:29:14.756] [I] Second instance: 5
+[2020-11-23 19:29:14.756] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:29:14.756] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:29:14.756] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:29:14.793] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:29:14.793] [I] Save with file names: ../5.bmp
+[2020-11-23 19:29:14.814] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:29:57.477] [I] Second instance: 5
+[2020-11-23 19:29:57.477] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:29:57.477] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:29:57.477] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:29:57.507] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:29:57.507] [I] Save with file names: ../5.bmp
+[2020-11-23 19:29:57.518] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:30:39.583] [I] Second instance: 5
+[2020-11-23 19:30:39.583] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:30:39.584] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:30:39.584] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:30:39.605] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:30:39.605] [I] Save with file names: ../5.bmp
+[2020-11-23 19:30:39.618] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:30:52.706] [I] Second instance: 5
+[2020-11-23 19:30:52.706] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:30:52.706] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:30:52.706] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:30:52.746] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:30:52.746] [I] Save with file names: ../5.bmp
+[2020-11-23 19:30:52.764] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:33:42.791] [I] Second instance: 5
+[2020-11-23 19:33:42.791] [I] Parsing command arguments [3]: (.\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-11-23 19:33:42.791] [I] Snip request: 2 (dest: 64)
+[2020-11-23 19:33:42.791] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-11-23 19:33:42.820] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-11-23 19:33:42.820] [I] Save with file names: ../5.bmp
+[2020-11-23 19:33:42.832] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-11-23 19:34:52.055] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-11-23 19:34:52.642] [I] Quit from tray menu
+[2020-11-23 19:34:52.661] [I] Snipaste: normal exit
+[2020-11-23 19:34:52.661] [I] Snipper: destructed
+[2020-11-23 19:34:52.680] [I] Exit: 0
+
+
+[2020-12-09 11:20:00.553] [I] ***************************************************************
+[2020-12-09 11:20:00.553] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-12-09 11:20:00.554] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-12-09 11:20:00.554] [I] Cores: 8
+[2020-12-09 11:20:00.554] [I] Elevated: false
+[2020-12-09 11:20:00.554] [I] Main thread id: 0x12c4
+[2020-12-09 11:20:00.554] [I] Log level: 2
+[2020-12-09 11:20:00.554] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-12-09 11:20:00.554] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-12-09 11:20:00.554] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:20:00.554] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-12-09 11:20:00.554] [I] Screen scale: 1.0
+[2020-12-09 11:20:00.554] [I] Retina factor: 1.0
+[2020-12-09 11:20:00.554] [I] Screens: 1
+[2020-12-09 11:20:00.554] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-12-09 11:20:00.576] [I] Desktops: 1
+[2020-12-09 11:20:00.576] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:20:00.597] [I] Settings imported
+[2020-12-09 11:20:00.600] [I] Breakpad initialized
+[2020-12-09 11:20:00.602] [I] Process priority: 1
+[2020-12-09 11:20:00.603] [I] Initializing Snipaste...
+[2020-12-09 11:20:00.972] [I] Prefetch...
+[2020-12-09 11:20:00.987] [I] Preloaded 20 files: 10 ms
+[2020-12-09 11:20:00.997] [I] Load default ssl configuration: 25 ms
+[2020-12-09 11:20:01.010] [I] About to apply settings...
+[2020-12-09 11:20:01.073] [I] Settings applied
+[2020-12-09 11:20:01.081] [I] Log level set to: 2
+[2020-12-09 11:20:01.122] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-12-09 11:20:01.123] [I] Header version: 184
+[2020-12-09 11:20:01.123] [I] About to restore pasters...
+[2020-12-09 11:20:01.123] [I] Group 0 [741BLT]: "默认"
+[2020-12-09 11:20:01.123] [I] Record version: 184
+[2020-12-09 11:20:01.123] [I] To restore: 0
+[2020-12-09 11:20:01.123] [I] Pasters touched
+[2020-12-09 11:20:01.123] [I] All pasters activated: true
+[2020-12-09 11:20:01.171] [I] Unref images: 0 (0 removed)
+[2020-12-09 11:20:01.172] [I] Unref dirs: 0 (0 removed)
+[2020-12-09 11:20:01.174] [I] Empty history info files: 0 (0 removed)
+[2020-12-09 11:20:01.174] [I] Pasters restored
+[2020-12-09 11:20:01.174] [I] Launch time: 631 ms
+[2020-12-09 11:20:38.108] [I] Second instance: 5
+[2020-12-09 11:20:38.108] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-12-09 11:20:38.108] [I] Snip request: 2 (dest: 64)
+[2020-12-09 11:20:38.108] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-12-09 11:20:38.140] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-12-09 11:20:38.140] [I] Save with file names: ../5.bmp
+[2020-12-09 11:20:38.154] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-12-09 11:20:48.168] [I] Second instance: 5
+[2020-12-09 11:20:48.168] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-12-09 11:20:48.168] [I] Snip request: 2 (dest: 64)
+[2020-12-09 11:20:48.168] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-12-09 11:20:48.201] [I] Screenshot successfully saved: file: ../5.bmp 
+[2020-12-09 11:20:48.201] [I] Save with file names: ../5.bmp
+[2020-12-09 11:20:48.223] [I] Image saved to: C:/Users/douxiaoyao/PycharmProjects/pythonProject/5.bmp
+[2020-12-09 11:20:57.175] [I] Second instance: 5
+[2020-12-09 11:20:57.175] [I] Parsing command arguments [3]: (C:\Users\douxiaoyao\PycharmProjects\pythonProject\BMP\Snipaste.exe, snip, --full, -o, ../5.bmp)
+[2020-12-09 11:20:57.175] [I] Snip request: 2 (dest: 64)
+[2020-12-09 11:20:57.175] [I] Screenshot (0, 0, 1440 x 900) destination: file: ../5.bmp 
+[2020-12-09 11:20:57.216[2020-12-09 11:37:01.017] [I] ***************************************************************
+[2020-12-09 11:37:01.017] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-12-09 11:37:01.017] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-12-09 11:37:01.017] [I] Cores: 8
+[2020-12-09 11:37:01.017] [I] Elevated: false
+[2020-12-09 11:37:01.017] [I] Main thread id: 0x2d84
+[2020-12-09 11:37:01.017] [I] Log level: 2
+[2020-12-09 11:37:01.017] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-12-09 11:37:01.017] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-12-09 11:37:01.017] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:37:01.017] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-12-09 11:37:01.017] [I] Screen scale: 1.0
+[2020-12-09 11:37:01.017] [I] Retina factor: 1.0
+[2020-12-09 11:37:01.017] [I] Screens: 1
+[2020-12-09 11:37:01.017] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-12-09 11:37:01.041] [I] Desktops: 1
+[2020-12-09 11:37:01.041] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:37:01.060] [I] Settings imported
+[2020-12-09 11:37:01.067] [I] Breakpad initialized
+[2020-12-09 11:37:01.073] [I] Process priority: 1
+[2020-12-09 11:37:01.074] [I] Initializing Snipaste...
+[2020-12-09 11:37:01.455] [I] Prefetch...
+[2020-12-09 11:37:01.471] [I] Preloaded 20 files: 20 ms
+[2020-12-09 11:37:01.493] [I] Load default ssl configuration: 40 ms
+[2020-12-09 11:37:01.497] [I] About to apply settings...
+[2020-12-09 11:37:01.561] [I] Settings applied
+[2020-12-09 11:37:01.570] [I] Log level set to: 2
+[2020-12-09 11:37:01.614] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-12-09 11:37:01.615] [I] Header version: 184
+[2020-12-09 11:37:01.615] [I] About to restore pasters...
+[2020-12-09 11:37:01.615] [I] Group 0 [741BLT]: "默认"
+[2020-12-09 11:37:01.615] [I] Record version: 184
+[2020-12-09 11:37:01.615] [I] To restore: 0
+[2020-12-09 11:37:01.615] [I] Pasters touched
+[2020-12-09 11:37:01.615] [I] All pasters activated: true
+[2020-12-09 11:37:01.672] [I] Unref images: 0 (0 removed)
+[2020-12-09 11:37:01.673] [I] Unref dirs: 0 (0 removed)
+[2020-12-09 11:37:01.675] [I] Empty history info files: 0 (0 removed)
+[2020-12-09 11:37:01.675] [I] Pasters restored
+[2020-12-09 11:37:01.675] [I] Launch time: 660 ms
+[2020-12-09 11:37:06.262] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-12-09 11:37:06.930] [I] Quit from tray menu
+[2020-12-09 11:37:06.948] [I] Snipaste: normal exit
+[2020-12-09 11:37:06.948] [I] Snipper: destructed
+[2020-12-09 11:37:06.966] [I] Exit: 0
+
+
+[2020-12-09 11:37:16.797] [I] ***************************************************************
+[2020-12-09 11:37:16.797] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-12-09 11:37:16.797] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-12-09 11:37:16.797] [I] Cores: 8
+[2020-12-09 11:37:16.797] [I] Elevated: false
+[2020-12-09 11:37:16.797] [I] Main thread id: 0x6c8
+[2020-12-09 11:37:16.797] [I] Log level: 2
+[2020-12-09 11:37:16.797] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-12-09 11:37:16.797] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-12-09 11:37:16.797] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:37:16.797] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-12-09 11:37:16.797] [I] Screen scale: 1.0
+[2020-12-09 11:37:16.797] [I] Retina factor: 1.0
+[2020-12-09 11:37:16.797] [I] Screens: 1
+[2020-12-09 11:37:16.797] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-12-09 11:37:16.833] [I] Desktops: 1
+[2020-12-09 11:37:16.833] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:37:16.871] [I] Settings imported
+[2020-12-09 11:37:16.878] [I] Breakpad initialized
+[2020-12-09 11:37:16.885] [I] Process priority: 1
+[2020-12-09 11:37:16.886] [I] Initializing Snipaste...
+[2020-12-09 11:37:17.261] [I] Prefetch...
+[2020-12-09 11:37:17.275] [I] Preloaded 20 files: 10 ms
+[2020-12-09 11:37:17.284] [I] Load default ssl configuration: 25 ms
+[2020-12-09 11:37:17.297] [I] About to apply settings...
+[2020-12-09 11:37:17.360] [I] Settings applied
+[2020-12-09 11:37:17.368] [I] Log level set to: 2
+[2020-12-09 11:37:17.410] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-12-09 11:37:17.411] [I] Header version: 184
+[2020-12-09 11:37:17.411] [I] About to restore pasters...
+[2020-12-09 11:37:17.411] [I] Group 0 [741BLT]: "默认"
+[2020-12-09 11:37:17.411] [I] Record version: 184
+[2020-12-09 11:37:17.411] [I] To restore: 0
+[2020-12-09 11:37:17.411] [I] Pasters touched
+[2020-12-09 11:37:17.411] [I] All pasters activated: true
+[2020-12-09 11:37:17.465] [I] Unref images: 0 (0 removed)
+[2020-12-09 11:37:17.466] [I] Unref dirs: 0 (0 removed)
+[2020-12-09 11:37:17.468] [I] Empty history info files: 0 (0 removed)
+[2020-12-09 11:37:17.468] [I] Pasters restored
+[2020-12-09 11:37:17.468] [I] Launch time: 680 ms
+[2020-12-09 11:37:24.358] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-12-09 11:37:26.266] [I] Quit from tray menu
+[2020-12-09 11:37:26.284] [I] Snipaste: normal exit
+[2020-12-09 11:37:26.284] [I] Snipper: destructed
+[2020-12-09 11:37:26.303] [I] Exit: 0
+
+
+[2020-12-09 11:38:42.700] [I] ***************************************************************
+[2020-12-09 11:38:42.700] [I] Snipaste 2.5.4-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-12-09 11:38:42.700] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2020-12-09 11:38:42.700] [I] Cores: 8
+[2020-12-09 11:38:42.700] [I] Elevated: false
+[2020-12-09 11:38:42.700] [I] Main thread id: 0x2d08
+[2020-12-09 11:38:42.700] [I] Log level: 2
+[2020-12-09 11:38:42.700] [I] Application dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP
+[2020-12-09 11:38:42.700] [I] Working dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject
+[2020-12-09 11:38:42.700] [I] Config: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:38:42.700] [I] Library paths: (C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP)
+[2020-12-09 11:38:42.700] [I] Screen scale: 1.0
+[2020-12-09 11:38:42.700] [I] Retina factor: 1.0
+[2020-12-09 11:38:42.701] [I] Screens: 1
+[2020-12-09 11:38:42.701] [I]     QRect(0, 0, 1440 x 900), DPI = 96.0 , DPR = 1.0
+[2020-12-09 11:38:42.728] [I] Desktops: 1
+[2020-12-09 11:38:42.728] [I] About to import settings from: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/config.ini
+[2020-12-09 11:38:42.749] [I] Settings imported
+[2020-12-09 11:38:42.752] [I] Breakpad initialized
+[2020-12-09 11:38:42.755] [I] Process priority: 1
+[2020-12-09 11:38:42.755] [I] Initializing Snipaste...
+[2020-12-09 11:38:43.139] [I] Prefetch...
+[2020-12-09 11:38:43.154] [I] Preloaded 20 files: 10 ms
+[2020-12-09 11:38:43.165] [I] Load default ssl configuration: 25 ms
+[2020-12-09 11:38:43.176] [I] About to apply settings...
+[2020-12-09 11:38:43.240] [I] Settings applied
+[2020-12-09 11:38:43.249] [I] Log level set to: 2
+[2020-12-09 11:38:43.291] [I] History dir: C:/Users/douxiaoyao/PycharmProjects/pythonProject/BMP/history
+[2020-12-09 11:38:43.292] [I] Header version: 184
+[2020-12-09 11:38:43.292] [I] About to restore pasters...
+[2020-12-09 11:38:43.292] [I] Group 0 [741BLT]: "默认"
+[2020-12-09 11:38:43.292] [I] Record version: 184
+[2020-12-09 11:38:43.292] [I] To restore: 0
+[2020-12-09 11:38:43.292] [I] Pasters touched
+[2020-12-09 11:38:43.292] [I] All pasters activated: true
+[2020-12-09 11:38:43.347] [I] Unref images: 0 (0 removed)
+[2020-12-09 11:38:43.348] [I] Unref dirs: 0 (0 removed)
+[2020-12-09 11:38:43.350] [I] Empty history info files: 0 (0 removed)
+[2020-12-09 11:38:43.350] [I] Pasters restored
+[2020-12-09 11:38:43.350] [I] Launch time: 660 ms
+[2020-12-09 11:38:46.022] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-12-09 11:38:46.633] [I] Quit from tray menu
+[2020-12-09 11:38:46.649] [I] Snipaste: normal exit
+[2020-12-09 11:38:46.650] [I] Snipper: destructed
+[2020-12-09 11:38:46.668] [I] Exit: 0
+
+
