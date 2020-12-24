@@ -240,7 +240,7 @@ def LittleWhale(name):   #切换界面
     time.sleep(random.randint(66, 100) * 0.001)
     wyhkm.LeftClick()
     time.sleep(random.randint(66, 100) * 0.001)
-    MoveToAdd(612,878)
+    MoveToAdd(513,880)
     time.sleep(random.randint(66, 100) * 0.001+1)
     bmpsave('RefreshScreenshot')
     try:
