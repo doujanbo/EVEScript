@@ -117,7 +117,7 @@ engine = pyttsx3.init()
 
 def sayhello(strhello):
     pass
-    '''
+'''
     engine.say(strhello)
     engine.runAndWait()
 '''
@@ -167,7 +167,10 @@ def OreTransfer():
     time.sleep(random.randint(66, 100) * 0.001)
     wyhkm.KeyUP('A')
     time.sleep(random.randint(66, 100) * 0.001)
-    OreCoolrdinate = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/whale.bmp", 0.9)['result']
+    try:
+        OreCoolrdinate = matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/whale.bmp", 0.9)['result']
+    except:
+        pass
     wyhkm.LeftDown()
     time.sleep(random.randint(66, 100) * 0.001)
     MoveToAdd(OreCoolrdinate[0],OreCoolrdinate[1])
@@ -219,6 +222,14 @@ def transport(): #移动矿石
         wyhkm.LeftUp()
         time.sleep(random.randint(66, 100) * 0.001)
         wyhkm.LeftClick()
+        try:
+            matchImg("./Screenshot/RefreshScreenshot.bmp", "./Screenshot/full.bmp", 0.9)['result']
+            while True:
+                engine.say("矿挖满了")
+                engine.runAndWait()
+        except:
+            sayhello("没有挖满")
+            pass
     except:
         sayhello('小鱼舰队机库没有矿石')
         print('小鱼舰队机库没有矿石')
@@ -347,6 +358,16 @@ def full():
 #transport()
 #full()
 #jinzhan()
+
+def test():
+    print("11111")
+    LittleWhale('dou')
+    print("22222")
+    time.sleep(0.5)
+    transport()
+    print("3333333")
+    time.sleep(100)
+
 
 
 while True:
